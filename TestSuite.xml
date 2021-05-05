@@ -5,9 +5,9 @@
     <test  name="OnChrome">
          
     <classes>
-         <class name="HomeBottonTest.HomePageBtnTestCase"/>
+       
          <class name="ApiTest.FirstRequestToRegister" />
-         <class name="registerPageTest.RegisterTestCase" />
+         
          
 
     </classes>
