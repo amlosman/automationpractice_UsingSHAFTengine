@@ -1,0 +1,13 @@
+
+################################################################################################################################################
+Starting Execution:	[6 out of 12] test cases in the current suite
+Test Method:		[HomeBottonTest.HomePageBtnTestCase.TestToursBtn]
+################################################################################################################################################
+[ReportManager] Target URL: [https://www.phptravels.net/home] @05-05-2021 10:17:35.0093 AM
+[ReportManager] Initial URL: [https://www.phptravels.net/home] @05-05-2021 10:17:35.0244 AM
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210505-101605", Target File: "\1620202659977_TestToursBtn.gif"]. @05-05-2021 10:17:40.0197 AM
+[ReportManager] Browser Action [navigateToURL] successfully performed. With the following test data [https://www.phptravels.net/home]. @05-05-2021 10:17:40.0826 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [TOURS]. @05-05-2021 10:17:44.0550 AM
+[ReportManager] AssertEquals PASSED; Expected [Featured Rentals] and Actual [Featured Rentals]. Comparison Type [EQUALS]. Validation Type [POSITIVE]. @05-05-2021 10:17:44.0604 AM
+[ReportManager] Successfully created attachment [Video Recording - TestToursBtn] @05-05-2021 10:17:47.0558 AM
+[ReportManager] Successfully created attachment [Animated Gif - TestToursBtn] @05-05-2021 10:17:47.0563 AM

@@ -1,0 +1,15 @@
+
+################################################################################################################################################
+Starting Execution:	[7 out of 12] test cases in the current suite
+Test Method:		[ApiTest.FirstRequestToRegister.userSignUp]
+################################################################################################################################################
+[ReportManager] Response status code: [200], status line: [HTTP/1.1 200 OK] @05-05-2021 10:17:52.0831 AM
+[ReportManager] Evaluating the actual response status code against the expected one...... @05-05-2021 10:17:52.0831 AM
+[ReportManager] AssertEquals PASSED; Expected [200] and Actual [200]. Comparison Type [EQUALS]. Validation Type [POSITIVE]. @05-05-2021 10:17:52.0832 AM
+[ReportManager] API Action [performRequest] successfully performed. With the following test data [Request Type: "POST" | Target Status Code: "200" | Service URL: "https://www.phptravels.net/account/signup" | Content Type: "text/html" | Response Time: "1766ms"]. @05-05-2021 10:17:52.0995 AM
+[ReportManager] Successfully created attachment [API Response - Body] @05-05-2021 10:17:52.0996 AM
+[ReportManager] Response status code: [200], status line: [HTTP/1.1 200 OK] @05-05-2021 10:17:53.0910 AM
+[ReportManager] Evaluating the actual response status code against the expected one...... @05-05-2021 10:17:53.0911 AM
+[ReportManager] AssertEquals PASSED; Expected [200] and Actual [200]. Comparison Type [EQUALS]. Validation Type [POSITIVE]. @05-05-2021 10:17:53.0912 AM
+[ReportManager] API Action [performRequest] successfully performed. With the following test data [Request Type: "GET" | Target Status Code: "200" | Service URL: "https://www.phptravels.net/account/logout/" | Content Type: "text/html" | Response Time: "905ms"]. @05-05-2021 10:17:53.0921 AM
+[ReportManager] Successfully created attachment [API Response - JSON Body] @05-05-2021 10:17:54.0249 AM

@@ -1,0 +1,15 @@
+
+################################################################################################################################################
+Starting Execution:	[9 out of 12] test cases in the current suite
+Test Method:		[registerPageTest.RegisterTestCase.TestByInvalidConfirmPassword]
+Test Description:	[Validate The Sign Up feature]
+################################################################################################################################################
+[ReportManager] Target URL: [https://www.phptravels.net/home] @05-05-2021 10:17:57.0503 AM
+[ReportManager] Initial URL: [data:,] @05-05-2021 10:17:57.0550 AM
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210505-101605", Target File: "\1620202690105_TestByInvalidConfirmPassword.gif"]. @05-05-2021 10:18:10.0241 AM
+[ReportManager] Browser Action [navigateToURL] successfully performed. With the following test data [https://www.phptravels.net/home]. @05-05-2021 10:18:10.0596 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [MY ACCOUNT]. @05-05-2021 10:18:13.0475 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [Sign Up]. @05-05-2021 10:18:17.0577 AM
+[ReportManager] AssertEquals PASSED; Expected [Password not matching with confirm password.] and Actual [Password not matching with confirm password.]. Comparison Type [EQUALS]. Validation Type [POSITIVE]. @05-05-2021 10:18:19.0908 AM
+[ReportManager] Successfully created attachment [Video Recording - TestByInvalidConfirmPassword] @05-05-2021 10:18:25.0622 AM
+[ReportManager] Successfully created attachment [Animated Gif - TestByInvalidConfirmPassword] @05-05-2021 10:18:25.0626 AM
